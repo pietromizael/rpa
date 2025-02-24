@@ -1,0 +1,11 @@
+Acesso a planilha base
+
+Ler os dados da planilha
+
+Acessar o site da finviz
+
+Consultar o valor atual
+
+Preencher os dados na planilha
+
+Enviar planilha em anexo por e-mail

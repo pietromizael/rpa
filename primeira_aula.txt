@@ -1,0 +1,14 @@
+UiPath Studio é o  coração dos produtos UiPath.
+Ele é onde você cria, gerencia e executa automações que
+serão publicados em seu Orchestrator e executados em
+computadores ou robôs virtuais.
+
+Processo: um conjunto de atividades que são executadas em sequência.
+
+Robô: um agente de software que executa tarefas automatizadas.
+
+Componentes: atividades, variáveis, argumentos, imports e argumentos.
+
+Coisas que devem ser lembradas: As saídas de um processo podem ser
+usadas como entradas para outro processo.
+
